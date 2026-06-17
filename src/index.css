@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-orbitron: "Orbitron", sans-serif;
+  --font-roboto: "Roboto", sans-serif;
+  --color-red:#FF4C4C
+}
+body{
+    background-color:#1A1919;
+    color:white;
+      overflow-x: hidden;
+}
+html,
+#root {
+  overflow-x: hidden;
+}
