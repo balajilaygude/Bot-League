@@ -111,11 +111,6 @@ export default function Ecosystem() {
       <div className="w-full h-0.5 bg-white"></div>
       <div className="py-10 flex justify-between">
         <div className="flex px-10 flex-col gap-10">
-            <h3 className="text-[30px] font-semibold">QUICK LINKS</h3>
-            <div className="flex font-roboto text-[18px] gap-30">
-                
-
-            </div>
         </div>
         <div className="pr-50 flex flex-col gap-5">
             <h3 className="text-[30px] font-semibold pr-20">SOCIAL MEDIA</h3>
