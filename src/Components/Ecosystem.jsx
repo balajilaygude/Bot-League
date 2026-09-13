@@ -120,13 +120,7 @@ export default function Ecosystem() {
                     <p>Programs </p>
                     <p>Rulebooks </p>
                 </div>
-                <div className="flex flex-col gap-2">
-                    <p>Join the Team</p>
-                    <p>Sponsorships</p>
-                    <p>Help Center </p>
-                    <p>Contact Us</p>
-                    <p>Legal</p>
-                </div>
+
             </div>
         </div>
         <div className="pr-50 flex flex-col gap-5">
