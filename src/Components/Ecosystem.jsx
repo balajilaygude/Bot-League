@@ -113,13 +113,7 @@ export default function Ecosystem() {
         <div className="flex px-10 flex-col gap-10">
             <h3 className="text-[30px] font-semibold">QUICK LINKS</h3>
             <div className="flex font-roboto text-[18px] gap-30">
-                <div className="flex flex-col gap-2">
-                    <p>The Arena </p>
-                    <p>Episodes </p>
-                    <p>National Rankings</p>
-                    <p>Programs </p>
-                    <p>Rulebooks </p>
-                </div>
+                
 
             </div>
         </div>
