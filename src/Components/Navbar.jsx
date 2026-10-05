@@ -12,7 +12,6 @@ export default function Navbar() {
             <div className="absolute w-full h-1 bottom-0 bg-red"></div>
           </div>
           <p>Programs</p>
-          <p>Community</p>
         </div>
       </div>
 
