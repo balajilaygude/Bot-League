@@ -17,9 +17,6 @@ export default function Navbar() {
         </div>
       </div>
       <div className="flex justify-center items-center gap-5 text-[18px]">
-        <button className="font-roboto border border-white px-6 py-1.5 rounded-lg">
-          LOGIN
-        </button>
         <button className="font-roboto bg-red px-4 py-1.5 rounded-lg">
           REGISTER NOW
         </button>
