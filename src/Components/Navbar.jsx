@@ -8,7 +8,7 @@ export default function Navbar() {
         <img src={logo} alt="logo" />
         <div className="flex justify-center items-center h-full gap-15 ">
           <div className="relative flex justify-center items-center h-full">
-            <p className="">Events</p>
+
           </div>
         </div>
       </div>
