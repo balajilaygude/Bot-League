@@ -11,7 +11,6 @@ export default function Navbar() {
             <p className="">Events</p>
             <div className="absolute w-full h-1 bottom-0 bg-red"></div>
           </div>
-          <p>Programs</p>
         </div>
       </div>
 
