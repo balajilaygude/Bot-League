@@ -16,8 +16,7 @@ export default function Navbar() {
           <p>Ranks</p>
         </div>
       </div>
-      <div className="flex justify-center items-center gap-5 text-[18px]">
-      </div>
+
     </div>
   );
 }
