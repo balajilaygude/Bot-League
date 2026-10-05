@@ -13,7 +13,6 @@ export default function Navbar() {
           </div>
           <p>Programs</p>
           <p>Community</p>
-          <p>Ranks</p>
         </div>
       </div>
 
