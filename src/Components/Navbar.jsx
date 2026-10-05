@@ -9,7 +9,6 @@ export default function Navbar() {
         <div className="flex justify-center items-center h-full gap-15 ">
           <div className="relative flex justify-center items-center h-full">
             <p className="">Events</p>
-            <div className="absolute w-full h-1 bottom-0 bg-red"></div>
           </div>
         </div>
       </div>
