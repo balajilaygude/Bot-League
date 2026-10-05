@@ -7,9 +7,6 @@ export default function Navbar() {
       <div className="font-orbitron gap-15 flex items-center justify-between text-[20px] ">
         <img src={logo} alt="logo" />
         <div className="flex justify-center items-center h-full gap-15 ">
-          <div className="relative flex justify-center items-center h-full">
-
-          </div>
         </div>
       </div>
 
