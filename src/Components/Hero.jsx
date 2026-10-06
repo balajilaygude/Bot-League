@@ -7,9 +7,6 @@ export default function Hero() {
         className="w-4/5 h-[calc(100vh-86px)] bg-linear-to-r from-black via-black/50 to-transparent
       flex justify-center items-start flex-col px-25 "
       >
-        <h1 className="text-[72px] font-orbitron font-semibold">
-          INDIA’S ULTIMATE ROBOTICS ARENA
-        </h1>
         <p className="text-2xl pb-10 ">
           Build.Compete.Rank.The National <br /> Ecosystem for Robotics Arena
         </p>
