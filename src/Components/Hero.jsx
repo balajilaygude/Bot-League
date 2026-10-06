@@ -7,9 +7,6 @@ export default function Hero() {
         className="w-4/5 h-[calc(100vh-86px)] bg-linear-to-r from-black via-black/50 to-transparent
       flex justify-center items-start flex-col px-25 "
       >
-        <p className="text-2xl pb-10 ">
-          Build.Compete.Rank.The National <br /> Ecosystem for Robotics Arena
-        </p>
         <div className="flex justify-center items-center gap-5 text-[18px]">
           <button className="font-roboto bg-red px-6 py-3 rounded-sm">
             CREATE ACCOUNT
