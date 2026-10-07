@@ -8,10 +8,6 @@ export default function Hero() {
       flex justify-center items-start flex-col px-25 "
       >
         <div className="flex justify-center items-center gap-5 text-[18px]">
- 
-          <button className="font-roboto border border-white px-8 py-3 rounded-sm">
-            EXPLORE EVENTS
-          </button>
         </div>
       </div>
       <div className="absolute bg-[#1A1919] border border-gray-500 p-2 rounded-sm font-roboto right-40 top-10">
