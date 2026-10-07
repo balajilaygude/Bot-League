@@ -8,9 +8,7 @@ export default function Hero() {
       flex justify-center items-start flex-col px-25 "
       >
         <div className="flex justify-center items-center gap-5 text-[18px]">
-          <button className="font-roboto bg-red px-6 py-3 rounded-sm">
-            CREATE ACCOUNT
-          </button>
+ 
           <button className="font-roboto border border-white px-8 py-3 rounded-sm">
             EXPLORE EVENTS
           </button>
