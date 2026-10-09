@@ -8,9 +8,6 @@ export default function Journey() {
   return (
     <div className="bg-black w-screen h-screen">
       <div className="flex justify-center items-center flex-col py-15">
-        <h3 className="text-red font-roboto font-semibold text-[30px]">
-          USER JOURNEY
-        </h3>
         <h1 className="text-[45px] font-orbitron">YOUR PATH TO THE LEAGUE</h1>
         <p className="text-gray-500 text-[20px] font-roboto">
           Lorem Ipsum Lorem Ipsum Lorem Ipsum
