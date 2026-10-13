@@ -9,9 +9,6 @@ export default function Journey() {
     <div className="bg-black w-screen h-screen">
       <div className="flex justify-center items-center flex-col py-15">
         <h1 className="text-[45px] font-orbitron">YOUR PATH TO THE LEAGUE</h1>
-        <p className="text-gray-500 text-[20px] font-roboto">
-          Lorem Ipsum Lorem Ipsum Lorem Ipsum
-        </p>
       </div>
       <div className="flex justify-center items-center gap-20 relative">
         <div className="flex justify-center items-center z-10 flex-col">
